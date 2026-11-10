@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Neon Shelf</title>
+<meta name="description" content="Tonight's four picks from my own movie shelf.">
+<meta name="theme-color" content="#06071a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Neon Shelf">
+<meta name="robots" content="noindex">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@600;700;800&family=VT323&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="top">
+  <button class="logo" id="homeBtn" type="button" aria-label="Neon Shelf, back to tonight's picker">
+    <span class="neon-pink">Ne<i class="flick">o</i>n</span> <span class="neon-cyan">Shelf</span>
+  </button>
+  <button class="tab" id="backBtn" type="button" aria-pressed="false">Back room</button>
+</header>
+<div class="osd" id="osd" aria-live="polite"><span id="osdDate">&nbsp;</span><span id="osdWeather"></span><span id="osdHoliday"></span></div>
+
+<button class="syncpill" id="syncPill" type="button" hidden></button>
+
+<main id="viewTonight">
+  <section id="chooser" aria-label="Choose mood and time">
+    <h2 class="lbl">Tonight I want</h2>
+    <div class="moods" id="moods" role="radiogroup" aria-label="Mood"></div>
+    <h2 class="lbl">I have</h2>
+    <div class="seg" id="times" role="radiogroup" aria-label="Time available"></div>
+    <p class="hint" id="timeHint"></p>
+    <button class="deal" id="dealBtn" type="button"><span>Deal my 4</span></button>
+  </section>
+
+  <section id="dealt" hidden aria-label="Tonight's picks">
+    <div class="dealbar">
+      <div class="osd"><span id="dealMood"></span><span id="dealTime"></span><span>&#9654; PLAY</span></div>
+      <button class="b2 small" id="changeBtn" type="button">Change</button>
+    </div>
+    <div class="shelfgrid" id="shelf" aria-live="polite"></div>
+    <p class="why" id="dealNote"></p>
+  </section>
+</main>
+
+<main id="viewBack" hidden>
+  <h1 class="roomtitle neon-cyan">Back room</h1>
+  <div class="tiles" id="tiles"></div>
+  <p class="formats" id="formats"></p>
+  <div class="btnrow">
+    <button class="b2 hot" id="scanBtn" type="button">+ Scan barcode</button>
+    <button class="b2" id="typeBtn" type="button">+ Type a title</button>
+  </div>
+  <section id="needsHand" hidden><h2 class="lbl">Needs a hand</h2><div class="rowlist" id="needsList"></div></section>
+  <section><h2 class="lbl">Most watched</h2><div class="rowlist" id="mostWatched"></div></section>
+  <section><h2 class="lbl">Longest unwatched</h2><div class="rowlist" id="longest"></div></section>
+  <section><h2 class="lbl">Dusty shelf</h2><div class="dusty" id="dusty"></div></section>
+  <section><h2 class="lbl">Recent movie nights</h2><div class="rowlist" id="recent"></div></section>
+  <section>
+    <h2 class="lbl">The whole shelf</h2>
+    <input class="field" id="shelfSearch" type="search" placeholder="Search your movies" autocomplete="off" aria-label="Search your movies">
+    <div class="rowlist tappable" id="allList"></div>
+  </section>
+  <div class="btnrow">
+    <button class="b2" id="settingsBtn" type="button">Settings</button>
+    <button class="b2" id="logAnyBtn" type="button">Log a watch</button>
+  </div>
+  <p class="fine">Posters and summaries from TMDB. Ratings from OMDb. Weather from Open-Meteo. This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
+</main>
+
+<nav class="dock" id="dock" hidden aria-label="Actions">
+  <div class="dock-in">
+    <button class="b2" id="redealBtn" type="button">&#8635; Deal again</button>
+    <button class="b2 hot" id="watchedBtn" type="button">We watched&hellip;</button>
+  </div>
+</nav>
+
+<div class="toast" id="toast" role="status"><span id="toastText"></span><button id="toastUndo" type="button" hidden>Undo</button></div>
+
+<dialog id="detailDlg" class="sheet" aria-label="Movie details"><div id="detailBody"></div></dialog>
+
+<dialog id="logDlg" class="sheet" aria-labelledby="logTitle">
+  <h2 id="logTitle" class="sheet-h neon-amber">What did you watch?</h2>
+  <label class="lbl" for="logDate">When</label>
+  <input class="field" id="logDate" type="date">
+  <div id="logPicks" class="logpicks"></div>
+  <label class="lbl" for="logSearch">Something else</label>
+  <input class="field" id="logSearch" type="search" placeholder="Type a title" autocomplete="off">
+  <div class="rowlist tappable" id="logResults"></div>
+  <div class="btnrow one"><button class="b2" type="button" data-close>Cancel</button></div>
+</dialog>
+
+<dialog id="addDlg" class="sheet" aria-labelledby="addTitle">
+  <h2 id="addTitle" class="sheet-h neon-amber">New on the shelf</h2>
+  <div id="reader" hidden></div>
+  <p class="status" id="addStatus"></p>
+  <div class="btnrow one" id="scanRow"><button class="b2 hot" id="startScan" type="button">Scan the barcode</button></div>
+  <label class="lbl" for="addName">Title</label>
+  <input class="field" id="addName" type="text" autocomplete="off" placeholder="e.g. The Thing">
+  <div class="two">
+    <div><label class="lbl" for="addYear">Year (optional)</label><input class="field" id="addYear" type="number" inputmode="numeric" min="1900" max="2100" placeholder="1982"></div>
+    <div><label class="lbl" for="addFormat">Format</label>
+      <select class="field" id="addFormat"><option>4K UHD</option><option>Blu-ray</option><option>DVD</option></select></div>
+  </div>
+  <label class="lbl" for="addBarcode">Barcode (optional)</label>
+  <input class="field" id="addBarcode" type="text" inputmode="numeric" autocomplete="off" placeholder="Numbers under the barcode">
+  <div class="btnrow"><button class="b2" type="button" data-close>Cancel</button><button class="b2 hot" id="addSave" type="button">Add to shelf</button></div>
+</dialog>
+
+<dialog id="editDlg" class="sheet" aria-labelledby="editTitleH">
+  <h2 id="editTitleH" class="sheet-h neon-amber">Edit</h2>
+  <label class="lbl" for="editName">Title</label>
+  <input class="field" id="editName" type="text" autocomplete="off">
+  <div class="two">
+    <div><label class="lbl" for="editYear">Year</label><input class="field" id="editYear" type="number" inputmode="numeric"></div>
+    <div><label class="lbl" for="editRuntime">Minutes</label><input class="field" id="editRuntime" type="number" inputmode="numeric"></div>
+  </div>
+  <label class="lbl" for="editFormat">Format</label>
+  <select class="field" id="editFormat"><option value="">Not set</option><option>4K UHD</option><option>Blu-ray</option><option>DVD</option></select>
+  <h3 class="lbl">Moods</h3>
+  <div class="moods small" id="editMoods"></div>
+  <div class="btnrow"><button class="b2" type="button" data-close>Cancel</button><button class="b2 hot" id="editSave" type="button">Save</button></div>
+  <button class="linkbtn danger" id="editRemove" type="button">Remove from my shelf</button>
+</dialog>
+
+<dialog id="settingsDlg" class="sheet" aria-labelledby="setH">
+  <h2 id="setH" class="sheet-h neon-amber">Settings</h2>
+  <label class="lbl" for="tokenInput">Save key</label>
+  <p class="status" id="tokenStatus"></p>
+  <input class="field" id="tokenInput" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Paste your GitHub save key">
+  <div class="btnrow"><button class="b2" id="tokenClear" type="button">Remove key</button><button class="b2 hot" id="tokenSave" type="button">Save key</button></div>
+  <label class="switch"><input type="checkbox" id="bingeToggle"><span>Binge night: include TV box sets in the deal</span></label>
+  <p class="status" id="placeLine"></p>
+  <div class="btnrow one"><button class="b2" type="button" data-close>Done</button></div>
+</dialog>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "Neon Shelf",
+  "short_name": "Neon Shelf",
+  "description": "Tonight's four picks from my own movie shelf.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06071a",
+  "theme_color": "#06071a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
