@@ -1,0 +1,4888 @@
+{
+ "version": 1,
+ "imports": [
+  {
+   "file": "clz-export-2026-11-10.csv",
+   "hash": "e48f13746e755355",
+   "date": "2026-11-10",
+   "rows": 228,
+   "added": 227
+  }
+ ],
+ "movies": [
+  {
+   "id": "12-angry-men-1957",
+   "title": "12 Angry Men",
+   "year": 1957,
+   "runtime": 96,
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "director": "Sidney Lumet",
+   "format": "Blu-ray",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "deep"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "1917-2019",
+   "title": "1917",
+   "year": 2019,
+   "runtime": 119,
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "director": "Sam Mendes",
+   "format": "4K UHD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "2001-a-space-odyssey-1968",
+   "title": "2001: A Space Odyssey",
+   "year": 1968,
+   "runtime": 149,
+   "genres": [
+    "Adventure",
+    "Science Fiction"
+   ],
+   "director": "Stanley Kubrick",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "weird",
+    "deep"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-40-year-old-virgin-2005",
+   "title": "The 40-Year-Old Virgin",
+   "year": 2005,
+   "runtime": 116,
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "director": "Judd Apatow",
+   "format": "4K UHD",
+   "distributor": "Universal Pictures",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cozy"
+   ],
+   "vibes": [
+    "romance"
+   ]
+  },
+  {
+   "id": "ace-ventura-pet-detective-1994",
+   "title": "Ace Ventura: Pet Detective",
+   "year": 1994,
+   "runtime": 86,
+   "genres": [
+    "Comedy"
+   ],
+   "director": "Tom Shadyac",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "agitator-2001",
+   "title": "Agitator",
+   "year": 2001,
+   "runtime": 150,
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "director": "Takashi Miike",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "aladdin-1992",
+   "title": "Aladdin",
+   "year": 1992,
+   "runtime": 90,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Musical",
+    "Romance"
+   ],
+   "director": "Ron Clements, John Musker",
+   "format": "4K UHD",
+   "distributor": "Buena Vista Home Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "alien-1979",
+   "title": "Alien",
+   "year": 1979,
+   "runtime": 117,
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Ridley Scott",
+   "format": "4K UHD",
+   "distributor": "20th Century Fox",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "aliens-1986",
+   "title": "Aliens",
+   "year": 1986,
+   "runtime": 137,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "James Cameron",
+   "format": "4K UHD",
+   "distributor": "Buena Vista Home Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "scary",
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "altered-states-1980",
+   "title": "Altered States",
+   "year": 1980,
+   "runtime": 102,
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Ken Russell",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "american-gigolo-1980",
+   "title": "American Gigolo",
+   "year": 1980,
+   "runtime": 117,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+   ],
+   "director": "Paul Schrader",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "annabelle-2014",
+   "title": "Annabelle",
+   "year": 2014,
+   "runtime": 99,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "John R. Leonetti",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "annabelle-comes-home-2019",
+   "title": "Annabelle Comes Home",
+   "year": 2019,
+   "runtime": 106,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Gary Dauberman",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "annabelle-creation-2017",
+   "title": "Annabelle: Creation",
+   "year": 2017,
+   "runtime": 109,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "David F. Sandberg",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "arena-1989",
+   "title": "Arena",
+   "year": 1989,
+   "runtime": 115,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Sports"
+   ],
+   "director": "Peter Manoogian",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "army-of-darkness-1992",
+   "title": "Army of Darkness",
+   "year": 1992,
+   "runtime": 81,
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "director": "Sam Raimi",
+   "format": "4K UHD",
+   "distributor": "Shout! Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cult",
+    "scary"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "backdraft-1991",
+   "title": "Backdraft",
+   "year": 1991,
+   "runtime": 137,
+   "genres": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Ron Howard",
+   "format": "4K UHD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "barry-lyndon-1975",
+   "title": "Barry Lyndon",
+   "year": 1975,
+   "runtime": 185,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "War"
+   ],
+   "director": "Stanley Kubrick",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "deep"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "batman-1989",
+   "title": "Batman",
+   "year": 1989,
+   "runtime": 126,
+   "genres": [
+    "Crime"
+   ],
+   "director": "Tim Burton",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "batman-returns-1992",
+   "title": "Batman Returns",
+   "year": 1992,
+   "runtime": 126,
+   "genres": [
+    "Action",
+    "Crime",
+    "Fantasy"
+   ],
+   "director": "Tim Burton",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "weird"
+   ],
+   "vibes": [
+    "christmas",
+    "snow"
+   ]
+  },
+  {
+   "id": "ben-hur-1959",
+   "title": "Ben-Hur",
+   "year": 1959,
+   "runtime": 212,
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "director": "William Wyler",
+   "format": "4K UHD",
+   "distributor": "SDS - Studio Distribution Services",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": [
+    "easter"
+   ]
+  },
+  {
+   "id": "the-big-lebowski-1998",
+   "title": "The Big Lebowski",
+   "year": 1998,
+   "runtime": 117,
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "director": "Joel Coen, Ethan Coen",
+   "format": "4K UHD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "big-trouble-in-little-china-1986",
+   "title": "Big Trouble in Little China",
+   "year": 1986,
+   "runtime": 99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "director": "John Carpenter",
+   "format": "DVD",
+   "distributor": "20th Century Fox",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cult",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "black-phone-2-2025",
+   "title": "Black Phone 2",
+   "year": 2025,
+   "runtime": 114,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Scott Derrickson",
+   "format": "4K UHD",
+   "distributor": "Studio Distribution Services",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "snow"
+   ]
+  },
+  {
+   "id": "blade-runner-2049-2017",
+   "title": "Blade Runner 2049",
+   "year": 2017,
+   "runtime": 164,
+   "genres": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Denis Villeneuve",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "intense",
+    "deep"
+   ],
+   "vibes": [
+    "rain"
+   ]
+  },
+  {
+   "id": "blue-velvet-1986",
+   "title": "Blue Velvet",
+   "year": 1986,
+   "runtime": 120,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "David Lynch",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "body-bags-1993",
+   "title": "Body Bags",
+   "year": 1993,
+   "runtime": 94,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "John Carpenter, Tobe Hooper, Larry Sulkis",
+   "format": "Blu-ray",
+   "distributor": "Shout! Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny",
+    "cult"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "body-heat-1981",
+   "title": "Body Heat",
+   "year": 1981,
+   "runtime": 113,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "director": "Lawrence Kasdan",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "brotherhood-of-the-wolf-2001",
+   "title": "Brotherhood of the Wolf",
+   "year": 2001,
+   "runtime": 142,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Christophe Gans",
+   "format": "4K UHD",
+   "distributor": "Scream Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "captain-ron-1992",
+   "title": "Captain Ron",
+   "year": 1992,
+   "runtime": 100,
+   "genres": [
+    "Adventure",
+    "Comedy"
+   ],
+   "director": "Thom Eberhardt",
+   "format": "DVD",
+   "distributor": "Buena Vista Home Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cozy"
+   ],
+   "vibes": [
+    "summer"
+   ]
+  },
+  {
+   "id": "carnival-of-souls-1962",
+   "title": "Carnival of Souls",
+   "year": 1962,
+   "runtime": 78,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "director": "Herk Harvey",
+   "format": "Blu-ray",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "casino-1995",
+   "title": "Casino",
+   "year": 1995,
+   "runtime": 178,
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "director": "Martin Scorsese",
+   "format": "4K UHD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "cellar-dweller-1987",
+   "title": "Cellar Dweller",
+   "year": 1987,
+   "runtime": 77,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "John Carl Buechler",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "chernobyl-2019",
+   "title": "Chernobyl",
+   "year": 2019,
+   "runtime": 327,
+   "genres": [
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "director": "Johan Renck",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "series",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "coco-2017",
+   "title": "Coco",
+   "year": 2017,
+   "runtime": 105,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Drama",
+    "Family",
+    "Fantasy",
+    "Music",
+    "Mystery"
+   ],
+   "director": "Lee Unkrich, Adrian Molina",
+   "format": "4K UHD",
+   "distributor": "Buena Vista Home Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "color-out-of-space-2019",
+   "title": "Color Out of Space",
+   "year": 2019,
+   "runtime": 111,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Richard Stanley",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-conjuring-2013",
+   "title": "The Conjuring",
+   "year": 2013,
+   "runtime": 112,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "James Wan",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-conjuring-2-2016",
+   "title": "The Conjuring 2",
+   "year": 2016,
+   "runtime": 134,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "James Wan",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-conjuring-the-devil-made-me-do-it-2021",
+   "title": "The Conjuring: The Devil Made Me Do It",
+   "year": 2021,
+   "runtime": 112,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Michael Chaves",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "creepshow-1982",
+   "title": "Creepshow",
+   "year": 1982,
+   "runtime": 120,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "George A. Romero",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny",
+    "cult"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "creepshow-2-1987",
+   "title": "Creepshow 2",
+   "year": 1987,
+   "runtime": 92,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Michael Gornick",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "cruising-1980",
+   "title": "Cruising",
+   "year": 1980,
+   "runtime": 102,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "William Friedkin",
+   "format": "4K UHD",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "cutter-s-way-1981",
+   "title": "Cutter's Way",
+   "year": 1981,
+   "runtime": 109,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Ivan Passer",
+   "format": "4K UHD",
+   "distributor": "Radiance Films",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "deep"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "dark-angel-1990",
+   "title": "Dark Angel",
+   "year": 1990,
+   "runtime": 91,
+   "genres": [
+    "Action",
+    "Crime",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Craig R. Baxley",
+   "format": "4K UHD",
+   "distributor": "SCREAM! FACTORY",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "intense"
+   ],
+   "vibes": [],
+   "tmdbQuery": "I Come in Peace"
+  },
+  {
+   "id": "dark-city-1998",
+   "title": "Dark City",
+   "year": 1998,
+   "runtime": 100,
+   "genres": [
+    "Fantasy",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Alex Proyas",
+   "format": "4K UHD",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "intense"
+   ],
+   "vibes": [
+    "rain"
+   ]
+  },
+  {
+   "id": "the-dark-knight-2008",
+   "title": "The Dark Knight",
+   "year": 2008,
+   "runtime": 152,
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "director": "Christopher Nolan",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "deadly-outlaw-rekka-2002",
+   "title": "Deadly Outlaw: Rekka",
+   "year": 2002,
+   "runtime": 96,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Takashi Miike",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "deadstream-2022",
+   "title": "Deadstream",
+   "year": 2022,
+   "runtime": 87,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Joseph Winter, Vanessa Winter",
+   "format": "",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "deepstar-six-1989",
+   "title": "DeepStar Six",
+   "year": 1989,
+   "runtime": 99,
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Sean S. Cunningham",
+   "format": "4K UHD",
+   "distributor": "Kino Lorber",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "demon-wind-1990",
+   "title": "Demon Wind",
+   "year": 1990,
+   "runtime": 96,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Charles Philip Moore",
+   "format": "Blu-ray",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "demonic-toys-1992",
+   "title": "Demonic Toys",
+   "year": 1992,
+   "runtime": 83,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Mystery"
+   ],
+   "director": "Peter Manoogian",
+   "format": "Blu-ray",
+   "distributor": "Full Moon",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "funny",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "demons-1985",
+   "title": "Demons",
+   "year": 1985,
+   "runtime": 88,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Lamberto Bava",
+   "format": "DVD",
+   "distributor": "Synapse",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "demonwarp-1988",
+   "title": "Demonwarp",
+   "year": 1988,
+   "runtime": 91,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Emmett Alston",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-devil-s-candy-2015",
+   "title": "The Devil's Candy",
+   "year": 2015,
+   "runtime": 79,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Sean Byrne",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "devil-story-1986",
+   "title": "Devil Story",
+   "year": 1986,
+   "runtime": 76,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Bernard Launois",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "die-die-my-darling-1965",
+   "title": "Die! Die! My Darling!",
+   "year": 1965,
+   "runtime": 97,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Silvio Narizzano",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [],
+   "tmdbQuery": "Fanatic"
+  },
+  {
+   "id": "dirty-harry-1971",
+   "title": "Dirty Harry",
+   "year": 1971,
+   "runtime": 102,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "director": "Don Siegel, Clint Eastwood",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "doctor-sleep-2019",
+   "title": "Doctor Sleep",
+   "year": 2019,
+   "runtime": 152,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Mike Flanagan",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "epic"
+   ],
+   "vibes": [
+    "snow"
+   ]
+  },
+  {
+   "id": "dogma-1999",
+   "title": "Dogma",
+   "year": 1999,
+   "runtime": 130,
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "director": "Kevin Smith",
+   "format": "4K UHD",
+   "distributor": "Lion's Gate Home Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "dolls-1986",
+   "title": "Dolls",
+   "year": 1986,
+   "runtime": 77,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Stuart Gordon",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": [
+    "rain"
+   ]
+  },
+  {
+   "id": "double-jeopardy-1999",
+   "title": "Double Jeopardy",
+   "year": 1999,
+   "runtime": 105,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Bruce Beresford",
+   "format": "4K UHD",
+   "distributor": "Paramount Pictures",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "dune-2021",
+   "title": "Dune",
+   "year": 2021,
+   "runtime": 155,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+   ],
+   "director": "Denis Villeneuve",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "dune-part-two-2024",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "runtime": 166,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+   ],
+   "director": "Denis Villeneuve",
+   "format": "4K UHD",
+   "distributor": "Studio Distribution Services",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "the-dungeonmaster-1984",
+   "title": "The Dungeonmaster",
+   "year": 1984,
+   "runtime": 73,
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "David Allen, Charles Band, John Carl Buechler",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "edge-of-sanity-1989",
+   "title": "Edge of Sanity",
+   "year": 1989,
+   "runtime": 90,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Gerard Kikoine",
+   "format": "Blu-ray",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "elvira-mistress-of-the-dark-1988",
+   "title": "Elvira: Mistress of the Dark",
+   "year": 1988,
+   "runtime": 96,
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "director": "James Signorelli",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cult"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "enter-the-void-2009",
+   "title": "Enter the Void",
+   "year": 2009,
+   "runtime": 161,
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "director": "Gaspar Noé",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "escape-from-new-york-1981",
+   "title": "Escape from New York",
+   "year": 1981,
+   "runtime": 99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "director": "John Carpenter",
+   "format": "4K UHD",
+   "distributor": "AVCO Embassy Pictures",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "event-horizon-1997",
+   "title": "Event Horizon",
+   "year": 1997,
+   "runtime": 96,
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Paul W.S. Anderson",
+   "format": "4K UHD",
+   "distributor": "Paramount Pictures",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "excalibur-1981",
+   "title": "Excalibur",
+   "year": 1981,
+   "runtime": 140,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance"
+   ],
+   "director": "John Boorman",
+   "format": "4K UHD",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "exhuma-2024",
+   "title": "Exhuma",
+   "year": 2024,
+   "runtime": 134,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "director": "Jae-hyun Jang",
+   "format": "4K UHD",
+   "distributor": "Well Go USA Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-exorcist-1973",
+   "title": "The Exorcist",
+   "year": 1973,
+   "runtime": 122,
+   "genres": [
+    "Horror"
+   ],
+   "director": "William Friedkin",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "a-fistful-of-dollars-1964",
+   "title": "A Fistful of Dollars",
+   "year": 1964,
+   "runtime": 99,
+   "genres": [
+    "Drama",
+    "Western"
+   ],
+   "director": "Sergio Leone",
+   "format": "4K UHD",
+   "distributor": "Kino Lorber",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "the-florida-project-2017",
+   "title": "The Florida Project",
+   "year": 2017,
+   "runtime": 111,
+   "genres": [
+    "Drama"
+   ],
+   "director": "Sean Baker",
+   "format": "4K UHD",
+   "distributor": "Second Sight",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "deep"
+   ],
+   "vibes": [
+    "summer"
+   ]
+  },
+  {
+   "id": "for-a-few-dollars-more-1965",
+   "title": "For a Few Dollars More",
+   "year": 1965,
+   "runtime": 132,
+   "genres": [
+    "Drama",
+    "Western"
+   ],
+   "director": "Sergio Leone",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "frailty-2001",
+   "title": "Frailty",
+   "year": 2001,
+   "runtime": 100,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Bill Paxton",
+   "format": "4K UHD",
+   "distributor": "Lion's Gate Home Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "freddy-s-dead-the-final-nightmare-1991",
+   "title": "Freddy's Dead: The Final Nightmare",
+   "year": 1991,
+   "runtime": 89,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Rachel Talalay",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "freeway-1996",
+   "title": "Freeway",
+   "year": 1996,
+   "runtime": 104,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Matthew Bright",
+   "format": "4K UHD",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "funny",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "from-beyond-1986",
+   "title": "From Beyond",
+   "year": 1986,
+   "runtime": 85,
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Stuart Gordon",
+   "format": "4K UHD",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "fudoh-the-new-generation-1996",
+   "title": "Fudoh: The New Generation",
+   "year": 1996,
+   "runtime": 98,
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "director": "Takashi Miike",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "intense",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "full-metal-jacket-1987",
+   "title": "Full Metal Jacket",
+   "year": 1987,
+   "runtime": 116,
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "director": "Stanley Kubrick",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-garbage-pail-kids-movie-1987",
+   "title": "The Garbage Pail Kids Movie",
+   "year": 1987,
+   "runtime": 100,
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Musical"
+   ],
+   "director": "Rodney Amateau",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "godzilla-minus-one-2023",
+   "title": "Godzilla Minus One",
+   "year": 2023,
+   "runtime": 124,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Takashi Yamazaki",
+   "format": "4K UHD",
+   "distributor": "Toho Studios",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "godzilla-vs-biollante-1989",
+   "title": "Godzilla vs. Biollante",
+   "year": 1989,
+   "runtime": 104,
+   "genres": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Kazuki Ohmori, Koji Hashimoto, Kenjirô Ohmori",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-good-the-bad-and-the-ugly-1966",
+   "title": "The Good, the Bad and the Ugly",
+   "year": 1966,
+   "runtime": 178,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Western"
+   ],
+   "director": "Sergio Leone",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "the-gorgon-1964",
+   "title": "The Gorgon",
+   "year": 1964,
+   "runtime": 83,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Terence Fisher",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cozy"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "graveyard-shift-1990",
+   "title": "Graveyard Shift",
+   "year": 1990,
+   "runtime": 86,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Ralph S. Singleton",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "halloween-1978",
+   "title": "Halloween",
+   "year": 1978,
+   "runtime": 91,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "John Carpenter",
+   "format": "4K UHD",
+   "distributor": "Scream Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "halloween-ii-1981",
+   "title": "Halloween II",
+   "year": 1981,
+   "runtime": 92,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Rick Rosenthal",
+   "format": "4K UHD",
+   "distributor": "Scream Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "halloween-iii-season-of-the-witch-1982",
+   "title": "Halloween III: Season of the Witch",
+   "year": 1982,
+   "runtime": 98,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Tommy Lee Wallace",
+   "format": "4K UHD",
+   "distributor": "Scream Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird",
+    "cult"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "hard-boiled-1992",
+   "title": "Hard Boiled",
+   "year": 1992,
+   "runtime": 128,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "director": "John Woo",
+   "format": "4K UHD",
+   "distributor": "Arrow",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "hard-target-1993",
+   "title": "Hard Target",
+   "year": 1993,
+   "runtime": 97,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "director": "John Woo",
+   "format": "DVD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "hellbound-hellraiser-ii-1988",
+   "title": "Hellbound: Hellraiser II",
+   "year": 1988,
+   "runtime": 97,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Tony Randel",
+   "format": "Blu-ray",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "hellraiser-1987",
+   "title": "Hellraiser",
+   "year": 1987,
+   "runtime": 94,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Clive Barker",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "hellraiser-iii-hell-on-earth-1992",
+   "title": "Hellraiser III: Hell on Earth",
+   "year": 1992,
+   "runtime": 93,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Anthony Hickox",
+   "format": "",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "high-and-low-1963",
+   "title": "High and Low",
+   "year": 1963,
+   "runtime": 143,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Akira Kurosawa",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "deep"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "a-history-of-violence-2005",
+   "title": "A History of Violence",
+   "year": 2005,
+   "runtime": 96,
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "David Cronenberg",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-hitcher-1986",
+   "title": "The Hitcher",
+   "year": 1986,
+   "runtime": 97,
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Robert Harmon",
+   "format": "4K UHD",
+   "distributor": "Second Sight Films",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "scary"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "the-hobbit-an-unexpected-journey-2012",
+   "title": "The Hobbit: An Unexpected Journey",
+   "year": 2012,
+   "runtime": 169,
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "director": "Peter Jackson",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-hobbit-the-battle-of-the-five-armies-2014",
+   "title": "The Hobbit: The Battle of the Five Armies",
+   "year": 2014,
+   "runtime": 144,
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "director": "Peter Jackson",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-hobbit-the-desolation-of-smaug-2013",
+   "title": "The Hobbit: The Desolation of Smaug",
+   "year": 2013,
+   "runtime": 161,
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "director": "Peter Jackson",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "howard-the-duck-1986",
+   "title": "Howard the Duck",
+   "year": 1986,
+   "runtime": 110,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Romance",
+    "Science Fiction"
+   ],
+   "director": "Willard Huyck",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "howling-ii-your-sister-is-a-werewolf-1985",
+   "title": "Howling II: ... Your Sister Is a Werewolf",
+   "year": 1985,
+   "runtime": 91,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Philippe Mora",
+   "format": "4K UHD",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "in-the-mouth-of-madness-1994",
+   "title": "In the Mouth of Madness",
+   "year": 1994,
+   "runtime": 95,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "John Carpenter",
+   "format": "4K UHD",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "it-1990",
+   "title": "It",
+   "year": 1990,
+   "runtime": 187,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Tommy Lee Wallace",
+   "format": "Blu-ray",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "it-welcome-to-derry-season-1-2025",
+   "title": "IT: Welcome to Derry: Season 1",
+   "year": 2025,
+   "runtime": 482,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Andy Muschietti, Andrew Bernstein, Emmanuel Osei-Kuffour",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "series",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "jaws-1975",
+   "title": "Jaws",
+   "year": 1975,
+   "runtime": 124,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Steven Spielberg",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "scary"
+   ],
+   "vibes": [
+    "summer"
+   ]
+  },
+  {
+   "id": "the-keep-1983",
+   "title": "The Keep",
+   "year": 1983,
+   "runtime": 96,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Michael Mann",
+   "format": "4K UHD",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "kill-bill-the-whole-bloody-affair-2004",
+   "title": "Kill Bill: The Whole Bloody Affair",
+   "year": 2004,
+   "runtime": 253,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "director": "Quentin Tarantino",
+   "format": "4K UHD",
+   "distributor": "Lion's Gate Home Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "killers-of-the-flower-moon-2023",
+   "title": "Killers of the Flower Moon",
+   "year": 2023,
+   "runtime": 206,
+   "genres": [
+    "Crime",
+    "Drama",
+    "History",
+    "Western"
+   ],
+   "director": "Martin Scorsese",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "deep"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "krampus-2015",
+   "title": "Krampus",
+   "year": 2015,
+   "runtime": 98,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Michael Dougherty",
+   "format": "4K UHD",
+   "distributor": "Scream Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny"
+   ],
+   "vibes": [
+    "christmas",
+    "snow"
+   ]
+  },
+  {
+   "id": "la-bamba-1987",
+   "title": "La Bamba",
+   "year": 1987,
+   "runtime": 108,
+   "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+   ],
+   "director": "Luis Valdez",
+   "format": "Blu-ray",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "lawrence-of-arabia-1962",
+   "title": "Lawrence of Arabia",
+   "year": 1962,
+   "runtime": 227,
+   "genres": [
+    "Adventure",
+    "Biography",
+    "Drama",
+    "War"
+   ],
+   "director": "David Lean",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "the-long-good-friday-1980",
+   "title": "The Long Good Friday",
+   "year": 1980,
+   "runtime": 114,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "John Mackenzie",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "lord-of-illusions-1995",
+   "title": "Lord of Illusions",
+   "year": 1995,
+   "runtime": 109,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Clive Barker",
+   "format": "4K UHD",
+   "distributor": "Shout! Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+   "title": "The Lord of the Rings: The Fellowship of the Ring",
+   "year": 2001,
+   "runtime": 178,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "director": "Peter Jackson",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-lord-of-the-rings-the-return-of-the-king-2003",
+   "title": "The Lord of the Rings: The Return of the King",
+   "year": 2003,
+   "runtime": 201,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "director": "Peter Jackson",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-lord-of-the-rings-the-two-towers-2002",
+   "title": "The Lord of the Rings: The Two Towers",
+   "year": 2002,
+   "runtime": 179,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "director": "Peter Jackson",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "luca-2021",
+   "title": "Luca",
+   "year": 2021,
+   "runtime": 95,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Family",
+    "Fantasy"
+   ],
+   "director": "Enrico Casarosa",
+   "format": "4K UHD",
+   "distributor": "Buena Vista Home Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy",
+    "funny"
+   ],
+   "vibes": [
+    "summer"
+   ]
+  },
+  {
+   "id": "mac-and-me-1988",
+   "title": "Mac and Me",
+   "year": 1988,
+   "runtime": 99,
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+   ],
+   "director": "Stewart Raffill",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "madman-1981",
+   "title": "Madman",
+   "year": 1981,
+   "runtime": 88,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Joe Giannone",
+   "format": "4K UHD",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-mangler-1995",
+   "title": "The Mangler",
+   "year": 1995,
+   "runtime": 106,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "director": "Tobe Hooper",
+   "format": "4K UHD",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "mars-attacks-1996",
+   "title": "Mars Attacks!",
+   "year": 1996,
+   "runtime": 106,
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "director": "Tim Burton",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-martian-2015",
+   "title": "The Martian",
+   "year": 2015,
+   "runtime": 144,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+   ],
+   "director": "Ridley Scott",
+   "format": "Blu-ray",
+   "distributor": "20th Century Fox",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "mimic-1997",
+   "title": "Mimic",
+   "year": 1997,
+   "runtime": 105,
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Guillermo del Toro",
+   "format": "4K UHD",
+   "distributor": "KINO LORBER",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "a-minecraft-movie-2025",
+   "title": "A Minecraft Movie",
+   "year": 2025,
+   "runtime": 101,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "director": "Jared Hess",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "misery-1990",
+   "title": "Misery",
+   "year": 1990,
+   "runtime": 107,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Rob Reiner",
+   "format": "4K UHD",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "scary"
+   ],
+   "vibes": [
+    "snow"
+   ]
+  },
+  {
+   "id": "ms-45-1981",
+   "title": "Ms .45",
+   "year": 1981,
+   "runtime": 80,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Abel Ferrara",
+   "format": "4K UHD",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "mutant-1984",
+   "title": "Mutant",
+   "year": 1984,
+   "runtime": 99,
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "John 'Bud' Cardos, Mark Rosman",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "my-neighbor-totoro-1988",
+   "title": "My Neighbor Totoro",
+   "year": 1988,
+   "runtime": 86,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "director": "Hayao Miyazaki",
+   "format": "DVD",
+   "distributor": "Shout! Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy"
+   ],
+   "vibes": [
+    "rain",
+    "summer"
+   ]
+  },
+  {
+   "id": "network-1976",
+   "title": "Network",
+   "year": 1976,
+   "runtime": 121,
+   "genres": [
+    "Drama"
+   ],
+   "director": "Sidney Lumet",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "deep",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "never-take-candy-from-a-stranger-1960",
+   "title": "Never Take Candy from A Stranger",
+   "year": 1960,
+   "runtime": 81,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Cyril Frankel",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [],
+   "tmdbQuery": "Never Take Sweets from a Stranger"
+  },
+  {
+   "id": "new-nightmare-1994",
+   "title": "New Nightmare",
+   "year": 1994,
+   "runtime": 112,
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Wes Craven",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "night-of-the-demons-1988",
+   "title": "Night of the Demons",
+   "year": 1988,
+   "runtime": 90,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Kevin Tenney",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny",
+    "cult"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "night-of-the-living-dead-1990",
+   "title": "Night of the Living Dead",
+   "year": 1990,
+   "runtime": 92,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Tom Savini",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "a-nightmare-on-elm-street-1984",
+   "title": "A Nightmare on Elm Street",
+   "year": 1984,
+   "runtime": 91,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Wes Craven",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "a-nightmare-on-elm-street-3-dream-warriors-1987",
+   "title": "A Nightmare on Elm Street 3: Dream Warriors",
+   "year": 1987,
+   "runtime": 96,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Chuck Russell",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "a-nightmare-on-elm-street-4-the-dream-master-1988",
+   "title": "A Nightmare on Elm Street 4: The Dream Master",
+   "year": 1988,
+   "runtime": 93,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Renny Harlin",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "a-nightmare-on-elm-street-part-2-freddy-s-revenge-1985",
+   "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+   "year": 1985,
+   "runtime": 87,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Jack Sholder",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "a-nightmare-on-elm-street-the-dream-child-1989",
+   "title": "A Nightmare on Elm Street: The Dream Child",
+   "year": 1989,
+   "runtime": 89,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Stephen Hopkins",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "no-country-for-old-men-2007",
+   "title": "No Country for Old Men",
+   "year": 2007,
+   "runtime": 122,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Ethan Coen, Joel Coen",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "the-northman-2022",
+   "title": "The Northman",
+   "year": 2022,
+   "runtime": 137,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "History",
+    "Thriller"
+   ],
+   "director": "Robert Eggers",
+   "format": "4K UHD",
+   "distributor": "Studio Distribution Services",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "nosferatu-2024",
+   "title": "Nosferatu",
+   "year": 2024,
+   "runtime": 132,
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Mystery"
+   ],
+   "director": "Robert Eggers",
+   "format": "4K UHD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "snow"
+   ]
+  },
+  {
+   "id": "nothing-but-trouble-1991",
+   "title": "Nothing But Trouble",
+   "year": 1991,
+   "runtime": 94,
+   "genres": [
+    "Adventure",
+    "Comedy"
+   ],
+   "director": "Dan Aykroyd",
+   "format": "DVD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "funny",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-nun-2018",
+   "title": "The Nun",
+   "year": 2018,
+   "runtime": 96,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Corin Hardy",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-old-dark-house-1963",
+   "title": "The Old Dark House",
+   "year": 1963,
+   "runtime": 86,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "William Castle",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cozy"
+   ],
+   "vibes": [
+    "rain",
+    "halloween"
+   ]
+  },
+  {
+   "id": "one-battle-after-another-2025",
+   "title": "One Battle After Another",
+   "year": 2025,
+   "runtime": 161,
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "director": "Paul Thomas Anderson",
+   "format": "4K UHD",
+   "distributor": "Studio Distribution Services",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "oppenheimer-2023",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "runtime": 180,
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "director": "Christopher Nolan",
+   "format": "4K UHD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "intense",
+    "deep"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "over-the-top-1987",
+   "title": "Over the Top",
+   "year": 1987,
+   "runtime": 93,
+   "genres": [
+    "Action",
+    "Drama",
+    "Sports"
+   ],
+   "director": "Menahem Golan",
+   "format": "DVD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "overlord-2018",
+   "title": "Overlord",
+   "year": 2018,
+   "runtime": 110,
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction",
+    "War"
+   ],
+   "director": "Julius Avery",
+   "format": "4K UHD",
+   "distributor": "Paramount",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "pacific-rim-2013",
+   "title": "Pacific Rim",
+   "year": 2013,
+   "runtime": 131,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "director": "Guillermo del Toro",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "paris-texas-1984",
+   "title": "Paris, Texas",
+   "year": 1984,
+   "runtime": 145,
+   "genres": [
+    "Drama"
+   ],
+   "director": "Wim Wenders",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "deep"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "perfect-days-2023",
+   "title": "Perfect Days",
+   "year": 2023,
+   "runtime": 124,
+   "genres": [
+    "Drama"
+   ],
+   "director": "Wim Wenders",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "deep",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "pet-sematary-1989",
+   "title": "Pet Sematary",
+   "year": 1989,
+   "runtime": 103,
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Mary Lambert",
+   "format": "4K UHD",
+   "distributor": "Paramount",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "pet-sematary-2019",
+   "title": "Pet Sematary",
+   "year": 2019,
+   "runtime": 100,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Kevin Kolsch, Dennis Widmyer",
+   "format": "4K UHD",
+   "distributor": "Paramount",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-phantom-of-the-opera-2004",
+   "title": "The Phantom of the Opera",
+   "year": 2004,
+   "runtime": 143,
+   "genres": [
+    "Drama",
+    "Musical",
+    "Romance",
+    "Thriller"
+   ],
+   "director": "Joel Schumacher",
+   "format": "DVD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "vibes": [
+    "romance"
+   ]
+  },
+  {
+   "id": "the-pirates-of-blood-river-1962",
+   "title": "The Pirates of Blood River",
+   "year": 1962,
+   "runtime": 87,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "director": "John Gilling",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "point-break-2015",
+   "title": "Point Break",
+   "year": 2015,
+   "runtime": 114,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Sports",
+    "Thriller"
+   ],
+   "director": "Ericson Core",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "possession-1981",
+   "title": "Possession",
+   "year": 1981,
+   "runtime": 124,
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "director": "Andrzej Zulawski",
+   "format": "4K UHD",
+   "distributor": "Umbrella Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "scary",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "primal-rage-1988",
+   "title": "Primal Rage",
+   "year": 1988,
+   "runtime": 91,
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Vittorio Rambaldi",
+   "format": "4K UHD",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "prince-of-darkness-1987",
+   "title": "Prince of Darkness",
+   "year": 1987,
+   "runtime": 102,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "John Carpenter",
+   "format": "4K UHD",
+   "distributor": "Shout! / Scream Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "project-hail-mary-2026",
+   "title": "Project Hail Mary",
+   "year": 2026,
+   "runtime": 156,
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "director": "Phil Lord, Christopher Miller",
+   "format": "4K UHD",
+   "distributor": "Alliance Entertainment",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "cozy",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-prophecy-1995",
+   "title": "The Prophecy",
+   "year": 1995,
+   "runtime": 98,
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Gregory Widen",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-prophecy-3-the-ascent-2000",
+   "title": "The Prophecy 3: The Ascent",
+   "year": 2000,
+   "runtime": 84,
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Patrick Lussier",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-prophecy-ii-1998",
+   "title": "The Prophecy II",
+   "year": 1998,
+   "runtime": 87,
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Greg Spence",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "pulp-fiction-1994",
+   "title": "Pulp Fiction",
+   "year": 1994,
+   "runtime": 154,
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "director": "Quentin Tarantino",
+   "format": "4K UHD",
+   "distributor": "Paramount Pictures",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "ran-1985",
+   "title": "Ran",
+   "year": 1985,
+   "runtime": 160,
+   "genres": [
+    "Action",
+    "Drama",
+    "War"
+   ],
+   "director": "Akira Kurosawa",
+   "format": "4K UHD",
+   "distributor": "Studio Canal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "re-animator-1985",
+   "title": "Re-Animator",
+   "year": 1985,
+   "runtime": 84,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Stuart Gordon",
+   "format": "4K UHD",
+   "distributor": "Second Sight Films",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-return-of-the-living-dead-1985",
+   "title": "The Return of the Living Dead",
+   "year": 1985,
+   "runtime": 91,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Dan O'Bannon",
+   "format": "4K UHD",
+   "distributor": "Scream Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "scary",
+    "cult"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "return-of-the-living-dead-ii-1988",
+   "title": "Return of the Living Dead II",
+   "year": 1988,
+   "runtime": 89,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Ken Wiederhorn",
+   "format": "Blu-ray",
+   "distributor": "Shout! Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-revenge-of-frankenstein-1958",
+   "title": "The Revenge of Frankenstein",
+   "year": 1958,
+   "runtime": 90,
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Terence Fisher",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cozy"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "riki-oh-the-story-of-ricky-1991",
+   "title": "Riki-Oh: The Story of Ricky",
+   "year": 1991,
+   "runtime": 91,
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Ngai Choi Lam",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "road-house-1989",
+   "title": "Road House",
+   "year": 1989,
+   "runtime": 114,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "director": "Rowdy Herrington",
+   "format": "4K UHD",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "robot-jox-1989",
+   "title": "Robot Jox",
+   "year": 1989,
+   "runtime": 85,
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Stuart Gordon",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-sadness-2021",
+   "title": "The Sadness",
+   "year": 2021,
+   "runtime": 99,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Robert Jabbaz",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "salem-s-lot-1979",
+   "title": "Salem's Lot",
+   "year": 1979,
+   "runtime": 240,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Tobe Hooper",
+   "format": "4K UHD",
+   "distributor": "Arrow",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "save-the-green-planet-2003",
+   "title": "Save the Green Planet!",
+   "year": 2003,
+   "runtime": 117,
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Joon-Hwan Jang",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "scanners-1981",
+   "title": "Scanners",
+   "year": 1981,
+   "runtime": 103,
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "David Cronenberg",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "scream-of-fear-1961",
+   "title": "Scream of Fear",
+   "year": 1961,
+   "runtime": 81,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Seth Holt",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "intense"
+   ],
+   "vibes": [],
+   "tmdbQuery": "Taste of Fear"
+  },
+  {
+   "id": "seven-samurai-1954",
+   "title": "Seven Samurai",
+   "year": 1954,
+   "runtime": 207,
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "director": "Akira Kurosawa",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "shin-godzilla-2016",
+   "title": "Shin Godzilla",
+   "year": 2016,
+   "runtime": 120,
+   "genres": [
+    "Action",
+    "Drama",
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Shinji Higuchi, Hideaki Anno",
+   "format": "4K UHD",
+   "distributor": "Toho Studios",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "weird"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-shining-1980",
+   "title": "The Shining",
+   "year": 1980,
+   "runtime": 146,
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "director": "Stanley Kubrick",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "snow"
+   ]
+  },
+  {
+   "id": "a-simple-plan-1998",
+   "title": "A Simple Plan",
+   "year": 1998,
+   "runtime": 121,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Sam Raimi",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "snow"
+   ]
+  },
+  {
+   "id": "sinners-2025",
+   "title": "Sinners",
+   "year": 2025,
+   "runtime": 137,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Ryan Coogler",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "epic"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "the-snorkel-1958",
+   "title": "The Snorkel",
+   "year": 1958,
+   "runtime": 74,
+   "genres": [
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Guy Green",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "society-1989",
+   "title": "Society",
+   "year": 1989,
+   "runtime": 99,
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "director": "Brian Yuzna",
+   "format": "Blu-ray",
+   "distributor": "Arrow Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "weird",
+    "cult",
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "sorcerer-1977",
+   "title": "Sorcerer",
+   "year": 1977,
+   "runtime": 121,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "William Friedkin",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "heat",
+    "rain"
+   ]
+  },
+  {
+   "id": "starship-troopers-1997",
+   "title": "Starship Troopers",
+   "year": 1997,
+   "runtime": 129,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Paul Verhoeven",
+   "format": "4K UHD",
+   "distributor": "Sony",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic",
+    "funny",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "stop-me-before-i-kill-1960",
+   "title": "Stop Me Before I Kill!",
+   "year": 1960,
+   "runtime": 108,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "director": "Val Guest",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [],
+   "tmdbQuery": "The Full Treatment"
+  },
+  {
+   "id": "storm-of-the-century-1999",
+   "title": "Storm of the Century",
+   "year": 1999,
+   "runtime": 265,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Craig R. Baxley",
+   "format": "DVD",
+   "distributor": "Trimark Home Video",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": [
+    "snow"
+   ]
+  },
+  {
+   "id": "stranger-things-season-1-2016",
+   "title": "Stranger Things: Season 1",
+   "year": 2016,
+   "runtime": 395,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Matt Duffer, Ross Duffer, Shawn Levy",
+   "format": "4K UHD",
+   "distributor": "Netflix",
+   "addedAt": "2026-11-10",
+   "kind": "series",
+   "moods": [
+    "scary",
+    "cozy"
+   ],
+   "vibes": [
+    "christmas"
+   ]
+  },
+  {
+   "id": "stranger-things-season-2-2017",
+   "title": "Stranger Things: Season 2",
+   "year": 2017,
+   "runtime": 464,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Matt Duffer, Ross Duffer, Shawn Levy",
+   "format": "4K UHD",
+   "distributor": "Netflix",
+   "addedAt": "2026-11-10",
+   "kind": "series",
+   "moods": [
+    "scary",
+    "cozy"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "stranger-things-season-3-2019",
+   "title": "Stranger Things: Season 3",
+   "year": 2019,
+   "runtime": 444,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Matt Duffer, Ross Duffer, Shawn Levy",
+   "format": "",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "series",
+   "moods": [
+    "scary",
+    "cozy"
+   ],
+   "vibes": [
+    "summer"
+   ]
+  },
+  {
+   "id": "stranger-things-season-4-2022",
+   "title": "Stranger Things: Season 4",
+   "year": 2022,
+   "runtime": 772,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Matt Duffer, Ross Duffer, Shawn Levy",
+   "format": "",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "series",
+   "moods": [
+    "scary",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "stranger-things-season-5-2025",
+   "title": "Stranger Things: Season 5",
+   "year": 2025,
+   "runtime": 620,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Matt Duffer, Ross Duffer, Frank Darabont",
+   "format": "",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "series",
+   "moods": [
+    "scary",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-stranglers-of-bombay-1959",
+   "title": "The Stranglers of Bombay",
+   "year": 1959,
+   "runtime": 80,
+   "genres": [
+    "Action",
+    "Adventure",
+    "History",
+    "Horror"
+   ],
+   "director": "Terence Fisher",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "street-trash-2024",
+   "title": "Street Trash",
+   "year": 2024,
+   "runtime": 85,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Ryan Kruger",
+   "format": "Blu-ray",
+   "distributor": "Vinegar Syndrome",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "talk-to-me-2022",
+   "title": "Talk to Me",
+   "year": 2022,
+   "runtime": 95,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "director": "Danny Philippou, Michael Philippou",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "teenage-mutant-ninja-turtles-1990",
+   "title": "Teenage Mutant Ninja Turtles",
+   "year": 1990,
+   "runtime": 93,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+   ],
+   "director": "Steve Barron",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze-1991",
+   "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+   "year": 1991,
+   "runtime": 88,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+   ],
+   "director": "Michael Pressman",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy",
+    "funny",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "teenage-mutant-ninja-turtles-iii-1993",
+   "title": "Teenage Mutant Ninja Turtles III",
+   "year": 1993,
+   "runtime": 96,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "director": "Stuart Gillard",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-ten-commandments-1956",
+   "title": "The Ten Commandments",
+   "year": 1956,
+   "runtime": 220,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Family",
+    "History"
+   ],
+   "director": "Cecil B. DeMille",
+   "format": "4K UHD",
+   "distributor": "Paramount Pictures",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "epic"
+   ],
+   "vibes": [
+    "easter"
+   ]
+  },
+  {
+   "id": "the-terminator-1984",
+   "title": "The Terminator",
+   "year": 1984,
+   "runtime": 107,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "director": "James Cameron",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-terror-of-the-tongs-1961",
+   "title": "The Terror of the Tongs",
+   "year": 1961,
+   "runtime": 76,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "director": "Anthony Bushell",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "they-live-1988",
+   "title": "They Live",
+   "year": 1988,
+   "runtime": 94,
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "John Carpenter",
+   "format": "",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "funny",
+    "cult"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "thief-1981",
+   "title": "Thief",
+   "year": 1981,
+   "runtime": 123,
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Michael Mann",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "rain"
+   ]
+  },
+  {
+   "id": "the-thing-1982",
+   "title": "The Thing",
+   "year": 1982,
+   "runtime": 109,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Science Fiction"
+   ],
+   "director": "John Carpenter",
+   "format": "4K UHD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "intense"
+   ],
+   "vibes": [
+    "snow"
+   ]
+  },
+  {
+   "id": "thor-ragnarok-2017",
+   "title": "Thor: Ragnarok",
+   "year": 2017,
+   "runtime": 130,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "director": "Taika Waititi",
+   "format": "DVD",
+   "distributor": "Buena Vista",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "three-colors-blue-1993",
+   "title": "Three Colors: Blue",
+   "year": 1993,
+   "runtime": 98,
+   "genres": [
+    "Drama",
+    "Music",
+    "Mystery",
+    "Romance"
+   ],
+   "director": "Krzysztof Kieslowski",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "deep"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "three-colors-red-1994",
+   "title": "Three Colors: Red",
+   "year": 1994,
+   "runtime": 99,
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+   ],
+   "director": "Krzysztof Kieslowski",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "deep"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "three-colors-white-1994",
+   "title": "Three Colors: White",
+   "year": 1994,
+   "runtime": 92,
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "director": "Krzysztof Kieslowski",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "deep",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "ticks-1993",
+   "title": "Ticks",
+   "year": 1993,
+   "runtime": 85,
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "director": "Tony Randel",
+   "format": "4K UHD",
+   "distributor": "VINEGAR SYNDROME",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "scary"
+   ],
+   "vibes": [
+    "summer"
+   ]
+  },
+  {
+   "id": "timecop-1994",
+   "title": "Timecop",
+   "year": 1994,
+   "runtime": 99,
+   "genres": [
+    "Action",
+    "Crime",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "director": "Peter Hyams",
+   "format": "4K UHD",
+   "distributor": "Shout! Factory",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "intense"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "to-live-and-die-in-l-a-1985",
+   "title": "To Live and Die in L.A.",
+   "year": 1985,
+   "runtime": 116,
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "director": "William Friedkin",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "trick-r-treat-2007",
+   "title": "Trick 'r Treat",
+   "year": 2007,
+   "runtime": 82,
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "director": "Michael Dougherty",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "funny"
+   ],
+   "vibes": [
+    "halloween"
+   ]
+  },
+  {
+   "id": "troll-2-1990",
+   "title": "Troll 2",
+   "year": 1990,
+   "runtime": 95,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
+   "director": "Claudio Fragasso",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "tromeo-and-juliet-1996",
+   "title": "Tromeo and Juliet",
+   "year": 1996,
+   "runtime": 107,
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "director": "Lloyd Kaufman",
+   "format": "Blu-ray",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "funny"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-two-faces-of-dr-jekyll-1960",
+   "title": "The Two Faces of Dr. Jekyll",
+   "year": 1960,
+   "runtime": 88,
+   "genres": [
+    "Horror"
+   ],
+   "director": "Terence Fisher",
+   "format": "DVD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "vampires-1998",
+   "title": "Vampires",
+   "year": 1998,
+   "runtime": 108,
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller"
+   ],
+   "director": "John Carpenter",
+   "format": "",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense",
+    "scary",
+    "cult"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "van-helsing-2004",
+   "title": "Van Helsing",
+   "year": 2004,
+   "runtime": 131,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Thriller"
+   ],
+   "director": "Stephen Sommers",
+   "format": "4K UHD",
+   "distributor": "Universal",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cult",
+    "epic"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "the-wailing-2016",
+   "title": "The Wailing",
+   "year": 2016,
+   "runtime": 156,
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "director": "Hong-jin Na",
+   "format": "4K UHD",
+   "distributor": "WELL GO USA ENTERTAINMENT",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary",
+    "intense"
+   ],
+   "vibes": [
+    "rain"
+   ]
+  },
+  {
+   "id": "wake-in-fright-1971",
+   "title": "Wake in Fright",
+   "year": 1971,
+   "runtime": 109,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "director": "Ted Kotcheff",
+   "format": "4K UHD",
+   "distributor": "",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "intense"
+   ],
+   "vibes": [
+    "heat"
+   ]
+  },
+  {
+   "id": "wayne-s-world-1992",
+   "title": "Wayne's World",
+   "year": 1992,
+   "runtime": 94,
+   "genres": [
+    "Comedy",
+    "Music"
+   ],
+   "director": "Penelope Spheeris",
+   "format": "4K UHD",
+   "distributor": "Paramount Pictures",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "cozy"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "weapons-2025",
+   "title": "Weapons",
+   "year": 2025,
+   "runtime": 128,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "director": "Zach Cregger",
+   "format": "4K UHD",
+   "distributor": "Warner Bros.",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "scary"
+   ],
+   "vibes": []
+  },
+  {
+   "id": "white-christmas-1954",
+   "title": "White Christmas",
+   "year": 1954,
+   "runtime": 120,
+   "genres": [
+    "Comedy",
+    "Musical",
+    "Romance"
+   ],
+   "director": "Michael Curtiz",
+   "format": "4K UHD",
+   "distributor": "Paramount Pictures",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "cozy"
+   ],
+   "vibes": [
+    "christmas",
+    "snow"
+   ]
+  },
+  {
+   "id": "withnail-and-i-1987",
+   "title": "Withnail and I",
+   "year": 1987,
+   "runtime": 107,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "director": "Bruce Robinson",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "funny",
+    "deep"
+   ],
+   "vibes": [
+    "rain"
+   ]
+  },
+  {
+   "id": "yi-yi-2000",
+   "title": "Yi Yi",
+   "year": 2000,
+   "runtime": 173,
+   "genres": [
+    "Drama"
+   ],
+   "director": "Edward Yang",
+   "format": "4K UHD",
+   "distributor": "The Criterion Collection",
+   "addedAt": "2026-11-10",
+   "kind": "movie",
+   "moods": [
+    "deep"
+   ],
+   "vibes": []
+  }
+ ]
+}

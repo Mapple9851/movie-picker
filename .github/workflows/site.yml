@@ -1,0 +1,67 @@
+# Neon Shelf robot. Runs by itself whenever something changes (a CLZ file is
+# uploaded, a movie is added or a watch is logged from the phone), and once a
+# month to refresh IMDb ratings. It updates the catalog, then publishes the app.
+name: Update catalog and publish
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '23 10 1 * *' # 1st of each month, early morning Central
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: neon-shelf-site
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Check the picking rules still work
+        run: npm test
+
+      - name: Import CLZ files, fetch posters and ratings
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+          REFRESH_RATINGS: ${{ github.event_name == 'schedule' && '1' || '0' }}
+        run: |
+          git config user.name "Neon Shelf robot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            node scripts/import-clz.mjs
+            node scripts/enrich.mjs
+            if git diff --quiet -- data; then echo "Catalog already up to date."; break; fi
+            git add data
+            git commit -m "Robot: update catalog"
+            if git push origin HEAD:main; then echo "Catalog saved."; break; fi
+            echo "Someone saved at the same moment. Trying again."
+            sleep 5
+          done
+
+      - name: Gather the app files
+        run: |
+          mkdir _site
+          cp -r index.html manifest.webmanifest css js data icons _site/
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4

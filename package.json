@@ -1,0 +1,13 @@
+{
+  "name": "neon-shelf",
+  "private": true,
+  "type": "module",
+  "description": "Personal movie picker for a physical disc collection.",
+  "scripts": {
+    "import": "node scripts/import-clz.mjs",
+    "enrich": "node scripts/enrich.mjs",
+    "test": "node --test tests/picker.test.mjs tests/robots.test.mjs",
+    "test:app": "node tests/app.e2e.mjs",
+    "serve": "node tests/serve.mjs"
+  }
+}
